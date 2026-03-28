@@ -76,3 +76,4 @@ Lista completa de módulos ativos:
 ---
 ## 📄 Licença
 Este projeto está sob a licença MIT. Desenvolvido para **Segurança Privada**.
+"# autoresponde-faq" 
