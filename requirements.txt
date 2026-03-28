@@ -1,0 +1,6 @@
+pytelebotapi
+python-dotenv
+supabase
+deep-translator
+googletrans==4.0.0-rc1
+asyncio

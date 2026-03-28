@@ -1,41 +1,42 @@
-# Compiled Lua sources
-luac.out
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
 
-# luarocks build files
+# Environment variables
+.env
+
+# Databases and local data
+*.json
+*.sqlite
+*.rar
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Project specific
+redlol.rar
+luac.out
 *.src.rock
 *.zip
 *.tar.gz
-
-# Object files
 *.o
 *.os
 *.ko
 *.obj
 *.elf
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
 *.lib
 *.a
 *.la
 *.lo
 *.def
 *.exp
-
-# Shared objects (inc. Windows DLLs)
 *.dll
 *.so
 *.so.*
 *.dylib
-
-# Executables
 *.exe
 *.out
 *.app
-*.i*86
-*.x86_64
 *.hex
-
